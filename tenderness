@@ -1,0 +1,4 @@
+# Calculate the square of a planet's distance from the sun
+planet_distance = 93_000_000 # in miles (Earth's average distance from the sun)
+planet_distance_squared = planet_distance ** 2
+print("The square of the planet's distance from the sun is:", planet_distance_squared)
